@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Kruthik Pramatha!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&pause=1000&color=fe424d&width=435&lines=Full+Stack+Developer;Software+Engineer;Building+Impactful+Solutions" alt="Typing SVG" />
-</p>
+<h3 align="center">Full Stack Developer | Building Impactful Solutions</h3>
 
 <p align="center">
   <a href="https://github.com/Kruthik009">
@@ -49,7 +47,7 @@ I am a passionate **Full Stack Developer** dedicated to building robust, user-ce
 
 ### 📁 Featured Projects
 
-#### 🌍 [WanderLust](https://github.com/Kruthik009/WanderLust) (Airbnb Clone)
+#### 🌍 [WanderLust](https://github.com/Kruthik009/WanderLust) 
 *A production-ready travel accommodation booking platform designed to connect wanderers with unique stays.*
 * **Architecture:** MVC (Model-View-Controller) structure for high maintainability.
 * **Security:** Integrated **Passport.js** for user authentication and resource authorization guards.
@@ -62,18 +60,6 @@ I am a passionate **Full Stack Developer** dedicated to building robust, user-ce
 * **Concept:** Connects restaurants, hotels, and event managers to shelters and food relief networks.
 * **Backend:** Dynamic routing and schema design for tracking donor contributions and scheduling pick-ups.
 * **Impact:** Focuses on routing edible surplus food safely to those who need it, reducing organic landfill waste.
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kruthik009&show_icons=true&theme=rose&hide_border=true&title_color=fe424d&icon_color=fe424d" alt="Kruthik's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kruthik009&theme=rose&hide_border=true&ring=fe424d&fire=fe424d" alt="GitHub Streak" />
-</p>
 
 ---
 
