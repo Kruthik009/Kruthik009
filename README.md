@@ -60,6 +60,7 @@ I am a passionate **Full Stack Developer** dedicated to building robust, user-ce
 * **Concept:** Connects restaurants, hotels, and event managers to shelters and food relief networks.
 * **Backend:** Dynamic routing and schema design for tracking donor contributions and scheduling pick-ups.
 * **Impact:** Focuses on routing edible surplus food safely to those who need it, reducing organic landfill waste.
+* **Live Demo:** [https://rescuemeal-frontend.vercel.app](https://rescuemeal-frontend.vercel.app)
 
 ---
 
