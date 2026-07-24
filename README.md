@@ -49,7 +49,7 @@ I am a passionate **Full Stack Developer** dedicated to building robust, user-ce
 
 ### 📁 Featured Projects
 
-#### 📚 [RAG PDF Chatbot](https://github.com/Kruthik009/RAG-PDF-CHATBOT)
+#### 📚 [DocMind AI — RAG PDF Chatbot](https://github.com/Kruthik009/RAG-PDF-CHATBOT)
 *An intelligent, high-performance Retrieval-Augmented Generation (RAG) system for chatting with multiple PDF documents using Groq AI and HuggingFace.*
 * **LLM Engine:** Powered by **Groq AI (Llama 3.3 70B)** for sub-second, context-aware answers.
 * **Vector Indexing:** Document chunking and vector embeddings processed locally using **HuggingFace** (`all-MiniLM-L6-v2`) and **FAISS**.
